@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./xnode/Library/HOME/lib"
+    ]
+}
