@@ -21,7 +21,7 @@ def writeLine(buffer):
     uart.write(buffer + '\n')
 
 #--------------------------------------------------------
-# USER CODE 
+# USER CODE m 
 #--------------------------------------------------------
 from time import sleep
 from machine import Pin
